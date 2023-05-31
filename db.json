@@ -1,32 +1,16 @@
 {
   "books": [
     {
-      "title": "harry",
+      "title": "harry potter",
       "id": 1
     },
     {
-      "title": "harry potter",
+      "title": "the hunger games",
       "id": 2
     },
     {
-      "title": "harry",
+      "title": "happy days",
       "id": 3
-    },
-    {
-      "title": "hary",
-      "id": 4
-    },
-    {
-      "title": "potter",
-      "id": 5
-    },
-    {
-      "title": "harry",
-      "id": 6
-    },
-    {
-      "title": "potter",
-      "id": 7
     }
   ]
 }
